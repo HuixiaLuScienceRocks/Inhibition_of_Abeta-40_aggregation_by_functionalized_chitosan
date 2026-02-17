@@ -1,1 +1,1 @@
-# Inhibition_of_A-40_aggregation_by_functionalized_chitosan
+# Inhibition_of_Abeta_{1-40}_aggregation_by_functionalized_chitosan
