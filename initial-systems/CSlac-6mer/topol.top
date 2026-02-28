@@ -9,8 +9,8 @@
 
 ; Include forcefield parameters
 #include "toppar/forcefield.itp"
-#include "toppar/TIP3.itp"
 #include "toppar/LIG.itp"
+#include "toppar/TIP3.itp"
 #include "toppar/SOD.itp"
 #include "toppar/CLA.itp"
 
